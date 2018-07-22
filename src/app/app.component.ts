@@ -6,9 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  componentTitle = 'I am app component from component.ts';
 
-  clickHandler() {
-    alert('I am clicked');
-  }
 }
